@@ -1,0 +1,17 @@
+/* List Style Type */
+.list-style-type1 {
+    list-style-type: square;
+}
+
+.list-style-type2 {
+    list-style-type: upper-roman;
+}
+
+/* List Style Shorthand */
+.list-style-shorthand1 {
+    list-style: circle inside;
+}
+
+.list-style-shorthand2 {
+    list-style: disc outside;
+}

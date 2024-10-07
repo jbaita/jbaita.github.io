@@ -1,0 +1,131 @@
+/* Colors */
+.color-sample1 {
+    color: red;
+}
+.color-sample2 {
+    color: green;
+}
+.color-sample3 {
+    color: blue;
+}
+
+/* Font Family */
+.font-family-sample1 {
+    font-family: 'Arial', sans-serif;
+}
+.font-family-sample2 {
+    font-family: 'Courier New', monospace;
+}
+.font-family-sample3 {
+    font-family: 'Times New Roman', serif;
+}
+
+/* Font Size */
+.font-size-sample1 {
+    font-size: 12px;
+}
+.font-size-sample2 {
+    font-size: 20px;
+}
+.font-size-sample3 {
+    font-size: 30px;
+}
+
+/* Font Weight */
+.font-weight-sample1 {
+    font-weight: normal;
+}
+.font-weight-sample2 {
+    font-weight: bold;
+}
+.font-weight-sample3 {
+    font-weight: 900;
+}
+
+/* Font Style */
+.font-style-sample1 {
+    font-style: normal;
+}
+.font-style-sample2 {
+    font-style: italic;
+}
+.font-style-sample3 {
+    font-style: oblique;
+}
+
+/* Text Transform */
+.text-transform-sample1 {
+    text-transform: lowercase;
+}
+.text-transform-sample2 {
+    text-transform: uppercase;
+}
+.text-transform-sample3 {
+    text-transform: capitalize;
+}
+
+/* Text Decoration */
+.text-decoration-sample1 {
+    text-decoration: underline;
+}
+.text-decoration-sample2 {
+    text-decoration: line-through;
+}
+.text-decoration-sample3 {
+    text-decoration: overline;
+}
+
+/* Text Align */
+.text-align-sample1 {
+    text-align: left;
+}
+.text-align-sample2 {
+    text-align: center;
+}
+.text-align-sample3 {
+    text-align: right;
+}
+
+/* Text Shadow */
+.text-shadow-sample1 {
+    text-shadow: 2px 2px #ff0000;
+}
+.text-shadow-sample2 {
+    text-shadow: 3px 3px #00ff00;
+}
+.text-shadow-sample3 {
+    text-shadow: 4px 4px #0000ff;
+}
+
+/* Text Indent */
+.text-indent-sample1 {
+    text-indent: 10px;
+}
+.text-indent-sample2 {
+    text-indent: 20px;
+}
+.text-indent-sample3 {
+    text-indent: 30px;
+}
+
+/* Letter Spacing */
+.letter-spacing-sample1 {
+    letter-spacing: 1px;
+}
+.letter-spacing-sample2 {
+    letter-spacing: 3px;
+}
+.letter-spacing-sample3 {
+    letter-spacing: 5px;
+}
+
+/* Word Spacing */
+.word-spacing-sample1 {
+    word-spacing: 5px;
+}
+.word-spacing-sample2 {
+    word-spacing: 10px;
+}
+.word-spacing-sample3 {
+    word-spacing: 15px;
+}

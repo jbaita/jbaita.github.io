@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Survey Form</title>
+</head>
+<body>
+    <center><h2>Please fill this survey form</h2></center>
+    <form>
+        <!-- Personal Information -->
+        <table>
+            <tr>
+                <td>First Name:</td>
+                <td><input type="text" name="first_name"></td>
+                <td>MI:</td>
+                <td><input type="text" name="mi" size="1"></td>
+                <td>Last Name:</td>
+                <td><input type="text" name="last_name"></td>
+            </tr>
+            <tr>
+                <td>City:</td>
+                <td><input type="text" name="city"></td>
+                <td>State:</td>
+                <td><input type="text" name="state"></td>
+                <td>Zip Code:</td>
+                <td><input type="text" name="zip_code"></td>
+            </tr>
+        </table>
+
+        <!-- Choose a Sport -->
+        <p>Choose a Sport:</p>
+        <input type="checkbox" name="sport" value="basketball"> Basketball
+        <input type="checkbox" name="sport" value="football"> Football
+        <input type="checkbox" name="sport" value="hockey"> Hockey
+
+        <!-- Choose a Year -->
+        <p>Choose a Year:</p>
+        <input type="radio" name="year" value="freshman"> Freshman
+        <input type="radio" name="year" value="sophomore"> Sophomore
+        <input type="radio" name="year" value="junior"> Junior
+        <input type="radio" name="year" value="senior"> Senior
+
+        <!-- Choose your favorite food -->
+        <p>Choose your favorite food:</p>
+        <select name="favorite_food" multiple size="3">
+            <option value="chips">Chips</option>
+            <option value="pizza">Pizza</option>
+            <option value="nachos">Nachos</option>
+        </select>
+
+        <!-- Comments Section -->
+        <p>Please let us know your comments</p>
+        <textarea name="comments" rows="5" cols="40"></textarea>
+
+        <!-- Submit and Clear Buttons -->
+        <p>
+            <input type="submit" value="Send">
+            <input type="reset" value="Clear">
+        </p>
+    </form>
+</body>
+</html>
